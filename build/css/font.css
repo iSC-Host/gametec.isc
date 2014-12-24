@@ -1,9 +1,9 @@
 @font-face {
     font-family: 'SceneProRegular';
-    src: url('../font/scenepro-regular-webfont.eot?') format('eot'),
-         url('../font/scenepro-regular-webfont.woff') format('woff'),
-         url('../font/scenepro-regular-webfont.ttf') format('truetype'),
-         url('../font/scenepro-regular-webfont.svg#webfontPPfl10JY') format('svg');
+    src: url('http://cryengine.com/font/scenepro-regular-webfont.eot?') format('eot'),
+         url('http://cryengine.com/font/scenepro-regular-webfont.woff') format('woff'),
+         url('http://cryengine.com/font/scenepro-regular-webfont.ttf') format('truetype'),
+         url('http://cryengine.com/font/scenepro-regular-webfont.svg#webfontPPfl10JY') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -11,10 +11,10 @@
 
 @font-face {
     font-family: 'SceneProBold';
-    src: url('../font/scenepro-bold-webfont.eot?') format('eot'),
-         url('../font/scenepro-bold-webfont.woff') format('woff'),
-         url('../font/scenepro-bold-webfont.ttf') format('truetype'),
-         url('../font/scenepro-bold-webfont.svg#webfontV2lCDIXN') format('svg');
+    src: url('http://cryengine.com/font/scenepro-bold-webfont.eot?') format('eot'),
+         url('http://cryengine.com/font/scenepro-bold-webfont.woff') format('woff'),
+         url('http://cryengine.com/font/scenepro-bold-webfont.ttf') format('truetype'),
+         url('http://cryengine.com/font/scenepro-bold-webfont.svg#webfontV2lCDIXN') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -22,10 +22,10 @@
 
 @font-face {
     font-family: 'SceneProBoldItalic';
-    src: url('../font/scenepro-bolditalic-webfont.eot?') format('eot'),
-         url('../font/scenepro-bolditalic-webfont.woff') format('woff'),
-         url('../font/scenepro-bolditalic-webfont.ttf') format('truetype'),
-         url('../font/scenepro-bolditalic-webfont.svg#webfontop9xca8g') format('svg');
+    src: url('http://cryengine.com/font/scenepro-bolditalic-webfont.eot?') format('eot'),
+         url('http://cryengine.com/font/scenepro-bolditalic-webfont.woff') format('woff'),
+         url('http://cryengine.com/font/scenepro-bolditalic-webfont.ttf') format('truetype'),
+         url('http://cryengine.com/font/scenepro-bolditalic-webfont.svg#webfontop9xca8g') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -33,10 +33,10 @@
 
 @font-face {
     font-family: 'SceneProItalic';
-    src: url('../font/scenepro-italic-webfont.eot?') format('eot'),
-         url('../font/scenepro-italic-webfont.woff') format('woff'),
-         url('../font/scenepro-italic-webfont.ttf') format('truetype'),
-         url('../font/scenepro-italic-webfont.svg#webfonts85w1bQv') format('svg');
+    src: url('http://cryengine.com/font/scenepro-italic-webfont.eot?') format('eot'),
+         url('http://cryengine.com/font/scenepro-italic-webfont.woff') format('woff'),
+         url('http://cryengine.com/font/scenepro-italic-webfont.ttf') format('truetype'),
+         url('http://cryengine.com/font/scenepro-italic-webfont.svg#webfonts85w1bQv') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -44,10 +44,10 @@
 
 @font-face {
     font-family: 'SceneProLight';
-    src: url('../font/scenepro-light-webfont.eot?') format('eot'),
-         url('../font/scenepro-light-webfont.woff') format('woff'),
-         url('../font/scenepro-light-webfont.ttf') format('truetype'),
-         url('../font/scenepro-light-webfont.svg#webfontxGqo9JAR') format('svg');
+    src: url('http://cryengine.com/font/scenepro-light-webfont.eot?') format('eot'),
+         url('http://cryengine.com/font/scenepro-light-webfont.woff') format('woff'),
+         url('http://cryengine.com/font/scenepro-light-webfont.ttf') format('truetype'),
+         url('http://cryengine.com/font/scenepro-light-webfont.svg#webfontxGqo9JAR') format('svg');
     font-weight: normal;
     font-style: normal;
 
